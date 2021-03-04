@@ -40,7 +40,7 @@ I live in Belarus, Minsk. I'am a student of **Belarusian State University of Inf
 As a **Junior Dev** I helped teachers with additional personal projects, and also performed a large number of small programs in the study process.
 
 > 
-###EDUCATION
+### EDUCATION
 
 * **Secondary**: 2007-2019, School №196 (physical and mathematical specialization)
 * **Higher**: 2019-2023, Belarusian State University of Informatics and Radioelectronics (artificial intelligence specialty) - *EXPECTED*
