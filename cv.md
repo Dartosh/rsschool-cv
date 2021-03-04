@@ -42,8 +42,8 @@ As a **Junior Dev** I helped teachers with additional personal projects, and als
 > 
 ###EDUCATION
 
-* **Secondary**: School №196 (physical and mathematical specialization)
-* **Higher**: Belarusian State University of Informatics and Radioelectronics (artificial intelligence specialty)
+* **Secondary**: 2007-2019, School №196 (physical and mathematical specialization)
+* **Higher**: 2019-2023, Belarusian State University of Informatics and Radioelectronics (artificial intelligence specialty) - *EXPECTED*
 
 > 
 #### ENGLISH SKILL
