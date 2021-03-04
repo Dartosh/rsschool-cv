@@ -1,5 +1,5 @@
 # ANTONY KLINTSOV
--------
+
 > 
 ### CONTACTS
  
@@ -35,6 +35,17 @@ I live in Belarus, Minsk. I'am a student of **Belarusian State University of Inf
     }
 
 > 
-### Work experience
+### WORK EXPERIENCE
 
 As a **Junior Dev** I helped teachers with additional personal projects, and also performed a large number of small programs in the study process.
+
+> 
+###EDUCATION
+
+* **Secondary**: School №196 (physical and mathematical specialization)
+* **Higher**: Belarusian State University of Informatics and Radioelectronics (artificial intelligence specialty)
+
+> 
+#### ENGLISH SKILL
+
+B1 (Intermediate)
