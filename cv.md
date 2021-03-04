@@ -10,12 +10,12 @@
 - Skype: **anton.klintsov9**
 
 > 
-###ABOUT ME
+### ABOUT ME
 
 I live in Belarus, Minsk. I'am a student of **Belarusian State University of Informatics and Radioelectronics** on the specialty **artificial intelligence**. At the moment I want to learn JavaScript language and work in  web programming, combining knowledge of JS and Java.
 
 > 
-###SKILLS
+### SKILLS
 
 - Java 
 - C++
@@ -23,7 +23,7 @@ I live in Belarus, Minsk. I'am a student of **Belarusian State University of Inf
 - JavaScript
 
 > 
-###EXAMPLE OF CODE
+### EXAMPLE OF CODE
 
  
     function positiveSum(arr) {
@@ -35,6 +35,6 @@ I live in Belarus, Minsk. I'am a student of **Belarusian State University of Inf
     }
 
 > 
-###Work experience
+### Work experience
 
 As a **Junior Dev** I helped teachers with additional personal projects, and also performed a large number of small programs in the study process.
