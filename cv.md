@@ -1,7 +1,7 @@
-#ANTONY KLINTSOV
+# ANTONY KLINTSOV
 -------
 > 
-###CONTACTS
+### CONTACTS
  
 - Discord: **Dartosh#8405**
 - Telegram: **@Dartosh_Kl**
